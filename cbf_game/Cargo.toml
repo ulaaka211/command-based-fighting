@@ -1,0 +1,9 @@
+[package]
+name = "cbf_game"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dialoguer = "0.11"
+console   = "0.16"
+rand = "0.8"
